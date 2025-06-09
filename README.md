@@ -1,2 +1,0 @@
-# PlanitTesting
-EcommerceWebsite
